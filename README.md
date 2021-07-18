@@ -16,6 +16,16 @@ cd nest-course
 npm run start:dev
 ```
 
+## How to run Docker
+
+```
+docker-compose build
+```
+
+```
+docker-compose up
+```
+
 http://localhost:5000/api/users
 
 ## Notes
